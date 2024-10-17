@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:on_time_app/home/theming_and_colors/app_colors.dart';
+
+import '../theming_and_colors/app_colors.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
